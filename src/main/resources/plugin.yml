@@ -1,0 +1,4 @@
+name: MultiblockLib
+version: '${project.version}'
+main: xyz.kardosk.multiblocklib.MultiblockLib
+api-version: '1.19'
