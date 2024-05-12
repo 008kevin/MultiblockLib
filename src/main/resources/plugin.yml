@@ -2,3 +2,8 @@ name: MultiblockLib
 version: '${project.version}'
 main: xyz.kardosk.multiblocklib.MultiblockLib
 api-version: '1.19'
+commands:
+  givehammer:
+    description: Gives the player the Multiblock Hammer
+    usage: /<command>
+    permission: to.do
